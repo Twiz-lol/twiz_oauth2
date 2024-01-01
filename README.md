@@ -8,6 +8,10 @@ For now it only supports `nodejs expressjs` the py and flask still undergoing de
 ```js
 npm install twiz_oauth2
 ```
+### OR
+```js
+npm i @sentiax/twiz_oauth2
+```
 ## 2. Configuration 
 Set up the required configurations in your Express.js application. This might include client IDs, secrets, redirect URIs, etc., provided by the Twiz.lol OAuth2 system.
 ## 3. Implementation
